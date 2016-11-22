@@ -63,198 +63,351 @@
      "id": "11"
 },
 {
-     "quote": "",
-     "author": "",
+     "quote": "Life is 10% what happens to me and 90% of how I react to it",
+     "author": "Charles Swindoll",
      "id": "12"
 },
 {
-     "quote": "",
-     "author": "",
+     "quote": "Go confidently in the direction of your dreams. Live the life you have imagined",
+     "author": "Henry David Thoreau",
      "id": "13"
 },     
 {
-     "quote": "",
-     "author": "",
+     "quote": "Life is what happens to you while you’re busy making other plans.",
+     "author": "John Lennon",
      "id": "14"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "The best time to plant a tree was 20 years ago. The second best time is now",
+     "author": "Chinese Proverb",
      "id": "15"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "Whatever the mind of man can conceive and believe, it can achieve.",
+     "author": "Napoleon Hill",
      "id": "16"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "Dream big and dare to fail.",
+     "author": "Norman Vaughan",
      "id": "17"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "If you want to lift yourself up, lift up someone else.",
+     "author": "Booker T. Washington",
      "id": "18"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "A good plan violently executed now is better than a perfect plan executed next week.",
+     "author": "George Patton",
      "id": "19"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "Two roads diverged in a wood, and I–I took the one less traveled by, And that has made all the dif erence",
+     "author": "Robert Frost",
      "id": "20"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "A journey of a thousand miles must begin with a single step.",
+     "author": "Lao Tzu",
      "id": "21"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "What would you do if you weren't afraid?",
+     "author": "Spencer Johnson",
      "id": "22"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "Become the kind of leader that people would follow voluntarily; even if you had no title or position",
+     "author": "Brian Tracy",
      "id": "23"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "A goal without a plan is just a wish.",
+     "author": "Larry Elder",
      "id": "24"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw of the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover.",
+     "author": "Mark Twain",
      "id": "25"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves",
+     "author": "Lao Tzu",
      "id": "26"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "A man who dares to waste one hour of life has not discovered the value of life.",
+     "author": "Charles Darwin",
      "id": "27"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "A person who never made a mistake never tried anything new.",
+     "author": "Albert Einstein",
      "id": "28"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "A truly rich man is one whose children run into his arms when his hands are empty.",
+     "author": "Unknown",
      "id": "29"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "A true leader has the confidence to stand alone, the courage to make tough decisions, and the compassion to listen to the needs of others",
+     "author": "Douglas MacArthur",
      "id": "30"
 },	 
 {
-     "quote": "",
-     "author": "",
+     "quote": "All the forces in the world are not so powerful as an idea whose time has come.",
+     "author": "Victor Hugo",
      "id": "31"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "Anyone can hold the helm when the sea is calm",
+     "author": "Publilius Syrus",
+     "id": "32"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "A goal is not always meant to be reached; it often serves simply as something to aim at.",
+     "author": "Bruce Lee",
+     "id": "33"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "Definiteness of purpose is the starting point of all achievement.",
+     "author": "W. Clement Stone",
+     "id": "34"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "Fall seven times and stand up eight",
+     "author": "Japanese Proverb",
+     "id": "35"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "If one advances confidently in the direction of his dreams, and endeavors to live the life he has imagined, he will meet with a success unexpected in common hours",
+     "author": "Henry Thoreau",
+     "id": "36"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "Goals are dreams with deadlines.",
+     "author": "Diana Scharf Hunt",
+     "id": "37"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "I am not a product of my circumstances. I am a product of my decisions.",
+     "author": "Stephen Covey",
+     "id": "38"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "I cannot give you the formula for success, but I can give you the formula for failure, which is: Try to please everybody.",
+     "author": "Herbert Swope",
+     "id": "39"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "I recommend to you to take care of the minutes; for hours will take care of themselves.",
+     "author": "Lord Chesterfield",
+     "id": "40"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.",
+     "author": "Sheryl Sandberg",
+     "id": "41"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "Impossible is a word to be found only in the dictionary of fools.",
+     "author": "Napoleon Bonaparte",
+     "id": "42"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "The only way to do great work is to love what you do.",
+     "author": "Steve Jobs",
+     "id": "43"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "It is better to have lived one day as a tiger than a thousand years as a sheep.",
+     "author": "Tibetan saying",
+     "id": "44"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "It’s not the years in your life that count. It’s the life in your years.",
+     "author": "Abraham Lincoln",
+     "id": "45"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "My interest in life comes from setting myself huge, apparently unachievable challenges and trying to rise above them.",
+     "author": "Richard Branson",
+     "id": "46"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
+     "quote": "Lead me, follow me, or get out of my way",
+     "author": "General George Patton",
+     "id": "47"
 },	 
 {
-     "quote": "",
-     "author": "",
-     "id": ""
-}	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
+     "quote": "Money is a wonderful thing, but it is possible to pay too high a price for it.",
+     "author": "Alexander Bloch",
+     "id": "48"
+},	 
+{
+     "quote": "If you’re going through hell, keep going!",
+     "author": "Winston Churchill",
+     "id": "49"
+},	 
+{
+     "quote": "Shoot for the moon. Even if you miss, you'll land among the stars.",
+     "author": "Les Brown",
+     "id": "50"
+},	 
+{
+     "quote": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+     "author": "Maya Angelou",
+     "id": "51"
+},	 
+{
+     "quote": "Not the cry, but the flight of a wild duck, leads the flock to fly and follow.",
+     "author": "Chinese Proverb",
+     "id": "52"
+},	 
+{
+     "quote": "Strive not to be a success, but rather to be of value.",
+     "author": "Albert Einstein",
+     "id": "53"
+},	 
+{
+     "quote": "Take care of the minutes and the hours will take care of themselves.",
+     "author": "Lord Chesterfield",
+     "id": "54"
+},	 
+{
+     "quote": "The greatest dreams are always unrealistic.",
+     "author": "Will Smith",
+     "id": "55"
+},	 
+{
+     "quote": "The mind is everything. What you think you become.",
+     "author": "Buddha",
+     "id": "56"
+},	 
+{
+     "quote": "The question isn’t who is going to let me; it’s who is going to stop me.",
+     "author": "Ayn Rand",
+     "id": "57"
+},	
+{
+     "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+     "author": "Mark Twain",
+     "id": "58"
+},
+{
+     "quote": "There are no traffic jams along the extra mile.",
+     "author": "Roger Staubach",
+     "id": "59"
+},		 
+{
+     "quote": "There is nothing so useless as doing efficiently that which should not be done at all.",
+     "author": "Peter Drucker",
+     "id": "60"
+},		 
+{
+     "quote": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+     "author": "Aristotle",
+     "id": "61"
+},	 
+{
+     "quote": "Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you.",
+     "author": "Carl Sandburg",
+     "id": "62"
+},	 
+{
+     "quote": "We become what we think about.",
+     "author": "Earl Nightingale",
+     "id": "63"
+},	 
+{
+     "quote": "What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
+     "author": "Bob Dylan",
+     "id": "64"
+},	 
+{
+     "quote": "Whatever you are, be a good one.",
+     "author": "Abraham Lincoln",
+     "id": "65"
+},	 
+{
+     "quote": "Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it.",
+     "author": "Johann Wolfgang von Goethe",
+     "id": "66"
+},	 
+{
+     "quote": "Where there is no vision, the people perish.",
+     "author": "Proverbs 29:18",
+     "id": "67"
+},	 
+{
+     "quote": "When I was 5 years old, my mother always told me that happiness was the key to life. When I went to school, they asked me what I wanted to be when I grew up. I wrote down ‘happy’. They told me I didn’t understand the assignment, and I told them they didn’t understand life",
+     "author": "John Lennon",
+     "id": "68"
+},	 
+{
+     "quote": "Whether you think you can or you think you can’t, you’re right",
+     "author": "Henry Ford",
+     "id": "69"
+},	 
+{
+     "quote": "You become what you believe.",
+     "author": "Oprah Winfrey",
+     "id": "70"
+},	 
+{
+     "quote": "You miss 100% of the shots you don’t take.",
+     "author": "Wayne Gretzky",
+     "id": "71"
+},	 
+{
+     "quote": "You will never find time for anything. If you want time you must make it.",
+     "author": "Charles Buxton",
+     "id": "72"
+},	 
+{
+     "quote": "Change your thoughts and you change your world.",
+     "author": "Norman Vincent Peale",
+     "id": "73"
+},	 
+{
+     "quote": "Never doubt that a small group of thoughtful, concerned citizens can change world. Indeed it is the only thing that ever has.",
+     "author": "Margaret Mead",
+     "id": "74"
+},	 
+{
+     "quote": "Neither success nor failure are ever final.",
+     "author": "Roger Babson",
+     "id": "75"
+},	 
+{
+     "quote": "You are not defined by your past. You are prepared by your past.",
+     "author": "Joel Osteen",
+     "id": "76"
+},	 
+{
+     "quote": "Always do what you are afraid to do.",
+     "author": "Ralph Waldo Emerson",
+     "id": "77"
+},	 
+{
+     "quote": "We tend to forget that happiness doesn't come as a result of getting something we don't have, but rather recognizing and appreciating what we do have.",
+     "author": "Friedrich Koenig",
+     "id": "78"
+},	 
+{
+     "quote": "Nobody can go back and start a new beginning, but anyone can start today and make a new ending.",
+     "author": "Maria Robinson",
+     "id": "79"
+},	 
+{
+     "quote": "Seek opportunity, not security. A boat in a harbor is safe, but in time its bottom will rot out.",
+     "author": "H. Jackson Brown Jr.",
+     "id": "80"
+} 
+
 	 ]
      
 }
